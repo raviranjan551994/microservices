@@ -1,0 +1,7 @@
+ ssh -i node.pem ubuntu@ec2-52-201-137-169.compute-1.amazonaws.com
+
+
+ps -ef
+
+
+
